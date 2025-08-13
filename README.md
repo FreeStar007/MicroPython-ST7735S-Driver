@@ -35,6 +35,7 @@
 
 ## 借鉴项目地址
 
-**感谢Gitee上作者CCH的ST7735项目提供的部分函数，如需其他拓展函数，请访问[该项目地址](https://gitee.com/cchmpy/st7735)**
+**感谢Gitee上作者CCH的ST7735项目提供的部分函数，如需其他拓展函数，请访问该[项目地址](https://gitee.com/cchmpy/st7735)**
+
 
 
